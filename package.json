@@ -7,7 +7,7 @@
     "lib": "src"
   },
   "dependencies": {
-    "@actions/core": "^1.2.2",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^2.1.0",
     "core-util-is": "^1.0.2",
     "js-yaml": "^4.0.0"
